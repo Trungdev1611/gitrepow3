@@ -8,3 +8,10 @@ add tu vscode
 =======
 --cached tells it to remove the paths from staging and the index without removing the files themselves and -r operates on directories recursively. You can then git add any files that you want to keep tracking.
 >>>>>>> 85c4f5d98ddab379c914afdf2c020d42188e1d45
+
+
+When a Pull Request is made, it can be reviewed by whoever has the proper access to the branch. This is where good discussions and review of the changes happen.
+
+Pull Requests are designed to allow people to work together easily and produce better results together!
+
+If you receive feedback and continue to improve your changes, you can push your changes with new commits, making further reviews possible.
