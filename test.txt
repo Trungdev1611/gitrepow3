@@ -3,4 +3,8 @@ dfdfdfdfdfdfd
 thêm từ trên github
 ffdfdfđfdfđfdfddfd
 fdssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaa
+<<<<<<< HEAD
 add tu vscode
+=======
+--cached tells it to remove the paths from staging and the index without removing the files themselves and -r operates on directories recursively. You can then git add any files that you want to keep tracking.
+>>>>>>> 85c4f5d98ddab379c914afdf2c020d42188e1d45
